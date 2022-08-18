@@ -21,10 +21,10 @@ public class Calculator {
         float result4 = num1 / num2;
 
         System.out.println("Calculation result ↓" + "\n");
-        System.out.println("+ → " + result1);
-        System.out.println("- → " + result2);
-        System.out.println("* → " + result3);
-        System.out.println("/ → " + result4);
+        System.out.println(num1 + " + " + num2 + " = " + result1);
+        System.out.println(num1 + " - " + num2 + result2);
+        System.out.println(num1 + " * " + num2 + result3);
+        System.out.println(num1 + " / " + num2 + result4);
         System.out.println("\n" + "Thank you for using our program");
 
 
