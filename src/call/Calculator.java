@@ -22,9 +22,9 @@ public class Calculator {
 
         System.out.println("Calculation result ↓" + "\n");
         System.out.println(num1 + " + " + num2 + " = " + result1);
-        System.out.println(num1 + " - " + num2 + result2);
-        System.out.println(num1 + " * " + num2 + result3);
-        System.out.println(num1 + " / " + num2 + result4);
+        System.out.println(num1 + " - " + num2 + " = " + result2);
+        System.out.println(num1 + " * " + num2 + " = " + result3);
+        System.out.println(num1 + " / " + num2 + " = " + result4);
         System.out.println("\n" + "Thank you for using our program");
 
 
