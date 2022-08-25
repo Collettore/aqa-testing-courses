@@ -1,4 +1,4 @@
-package calltarification;
+package hw1.calltarification;
 
 import java.util.Scanner;
 
