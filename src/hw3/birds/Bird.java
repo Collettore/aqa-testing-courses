@@ -1,4 +1,4 @@
-package hw3.birds
+package hw3.birds;
 
 public class Bird {
 }
