@@ -1,5 +1,10 @@
 package hw3.birds
 
 
-public class FlyBird {
+public class FlyBird extends Bird {
+
+    public FlyBird(String s){
+        super(s);
+    }
+
 }
