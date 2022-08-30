@@ -1,7 +1,8 @@
-package hw2.Person;
+package apps.Person;
+
+import main.firstprog.Person.Person;
 
 import java.time.LocalDate;
-import java.util.Scanner;
 
 public class nameperson {
 

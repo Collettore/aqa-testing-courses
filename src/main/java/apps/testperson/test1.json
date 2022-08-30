@@ -1,0 +1,39 @@
+{
+  "name": "testing1",
+  "people": [
+    {
+      "name": "Oliver Twist",
+      "age": 11
+    },
+
+    {
+      "name": "Oleg Vynnyk",
+      "age": 49
+    },
+
+    {
+      "name": "Tony Stark",
+      "age": 51
+    },
+
+    {
+      "name": "Ivo Bobul",
+      "age": 59
+    },
+
+    {
+      "name": "Benedict Timothy Carlton Cumberbatch",
+      "age": 46
+    },
+
+    {
+      "name": "Volodymyr Zelenskyi",
+      "age": 42
+    },
+
+    {
+      "name": "Volodymyr Klichko",
+      "age": 49
+    }
+  ]
+}

@@ -1,7 +1,4 @@
-package firstprog;
-import java.util.ArrayList;
-import java.util.List;
-import java.util.Scanner;
+package apps.firstprog;
 
 public class Firsprogram {
 /*    public static void main (String...argz){

@@ -1,4 +1,4 @@
-package hw3.birds;
+package apps.birds;
 
 public class Penguin {
 }

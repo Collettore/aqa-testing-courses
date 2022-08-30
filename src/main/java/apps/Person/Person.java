@@ -1,10 +1,8 @@
-package hw2.Person;
+package apps.Person;
 
 
-import java.security.PublicKey;
 import java.time.LocalDate;
 import java.time.Period;
-import java.util.Scanner;
 
 public class Person {
     private String name;
