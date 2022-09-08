@@ -1,4 +1,4 @@
-package apps.hw3
+package apps.hw3;
 
 
 public class FlyBird extends Bird {
