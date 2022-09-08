@@ -1,4 +1,4 @@
-package apps.birds;
+package apps.hw3;
 
 public class Chicken {
     class Chicken extends Bird {

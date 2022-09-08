@@ -1,4 +1,4 @@
-package apps.Person;
+package apps.hw2;
 
 import main.firstprog.Person.Person;
 
